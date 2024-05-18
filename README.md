@@ -7,7 +7,7 @@ Visit FlutterLibrary.com to Download the [Flutter e-commerce app template](https
 
 ### Video Preview of the Shop template
 
-![Preview](/intro.gif)
+
 
 ## Screens it contains:
 
